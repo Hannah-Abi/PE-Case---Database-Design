@@ -1,6 +1,5 @@
 ## PE-Case---Database-Design
 Prototype of a real database system.
-This case assignment covers a very small and simple prototypeof a real database system. The scope of this assignment is narrowed to very minimal set of features to make the size of this task small enough for our purposes.
 ### 1. Database Design documentation(One PDF document:DM_Case_Design.pdf)
   #### 1.1 ER diagram
   #### 1.2 Relational schema
